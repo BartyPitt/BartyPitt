@@ -19,5 +19,5 @@ As a recent graduate of Imperial College with a degree in Design Engineering, I 
 
 ## ⚡ Contact Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/barty-pitt-361361161/)
-[![Personal Website](https://img.shields.io/badge/Personal%20Website-1DA1F2?style=for-the-badge&logo=personalwebsite&logoColor=white)](https://[[www.yourwebsite.com](https://BartyPitt.com)](https://BartyPitt.com))
+[![Personal Website](https://img.shields.io/badge/Personal%20Website-1DA1F2?style=for-the-badge&logo=personalwebsite&logoColor=white)](https://BartyPitt.com)
 
