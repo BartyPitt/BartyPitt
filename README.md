@@ -2,7 +2,7 @@
 
 
 ## 🚀 About me
-As a recent graduate of Imperial College with a degree in Design Engineering, I bring a unique perspective to my work as a full-stack .NET developer. Combining my passion for robotics with my skills in programming, I'm constantly exploring innovative solutions to complex challenges.
+Design Engineer turned full-stack .NET developer, currently working in fintech. After graduating from Imperial College, I spent 3 years in robotics before pivoting to financial technology. I love solving complex problems at the intersection of engineering disciplines—whether that's building scalable backend systems or creating intuitive user experiences.
 
 ## 🔗 Skills
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
